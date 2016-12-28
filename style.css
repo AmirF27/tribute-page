@@ -1,5 +1,5 @@
 body {
-	background-color: #1B1B1E;
+	background: #1B1B1E;
 	color: #fff;
 	margin-top: 40px;
 	font-family: "Lato", sans-serif;
@@ -139,10 +139,6 @@ footer {
 
 
 @media (max-width: 767px) {
-	body {
-		font-size: 14px
-	}
-
 	h3 {
 		text-align: center;
 	}
