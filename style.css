@@ -76,6 +76,10 @@ h3 {
 	margin-top: 35px;
 }
 
+.btn-default {
+	color: #1B1B1E;
+}
+
 ul {
 	margin: 25px 0;
 	padding: 0;
