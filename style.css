@@ -76,7 +76,7 @@ h3 {
 	margin-top: 35px;
 }
 
-.btn-default {
+.btn-default:hover {
 	color: #1B1B1E;
 }
 
